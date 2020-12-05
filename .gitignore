@@ -1,0 +1,3 @@
+badfile
+*.txt
+node_modules/*
