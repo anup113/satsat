@@ -1,2 +1,4 @@
 # satsat
 practive
+
+git clone 
